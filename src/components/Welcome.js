@@ -43,7 +43,7 @@ class Welcome extends Component{
             <h1>Eternizando Seus Melhores Momentos!</h1>
             <p style={styles.blackfriday}>BLACK FRIDAY<br></br>
             Até 50%  OFF<br></br>
-            <img src="./img/filme.jpg" width="80%"></img></p>
+            <img src="./img/filme.jpg" width="80%" alt="Fotos do Studio"></img></p>
             <p style={styles.promocao}>FOTOGRAFIA DE CASAMENTO<br></br>
             Ensaios Românticos, Gestante, Família, Eventos!<br></br>
             Eternize seus melhores momentos com um super desconto!<br></br>
